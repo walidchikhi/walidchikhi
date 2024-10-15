@@ -9,9 +9,14 @@
 ## **ABOUT ME**
 
 - 🔭 I’m currently working as **Numerical Weather Prediction & Hydrological Models developper** at **Meteo-Algeria**
-- 🌱 I’m currently working on **Physics and systems Aspects ** also on ****Operationnel developpement****
+- 🌱 I’m currently working on **Physics and systems Aspects** also on ****Operationnel developpement****
 - 💻 Check my Projects and other Repos [HERE.](https://github.com/walidchikhi?tab=repositories)
 - ⚡ Fun fact is am **a Meteorological Engineer with big passion for programming and IT developpement .**
+
+
+<div style="color:red;">Looking for an interesting PhD thesis offer. If you have any exciting proposals, please contact me.</div>
+
+
 
 ## **CODING STATS**
 

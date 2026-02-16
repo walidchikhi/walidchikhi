@@ -15,9 +15,8 @@
 I am a **Senior NWP Systems Engineer** and **Atmospheric Scientist** at **Météo-Algérie**, specializing in the development and optimization of high-resolution numerical models. I bridge the gap between complex atmospheric physics and high-performance computing (HPC).
 
 - 🔭 **Current Focus:** Modernizing operational forecasting chains (AROME/ALADIN) and implementing hydrological configurations (**HYPE model**).
-- 🛠️ **System Expertise:** Expert in **CMake** migration for legacy NWP codes and modularization of I/O libraries (LFI/FA/IAL).
+- 🛠️ **System Expertise:** Expert in **CMake** migration for legacy NWP codes , Python packaging , dockers ...etc 
 - 🔬 **Research Interests:** Wildfire Modeling, Aerosol-Radiation Interactions, and Statistical Post-Processing.
-- 🌍 **Collaboration:** Active contributor to the **ACCORD Consortium**.
 
 ---
 
@@ -38,7 +37,7 @@ I am a **Senior NWP Systems Engineer** and **Atmospheric Scientist** at **Mété
     <td align="center" width="33%">
       <strong>Data Science</strong><br/>
       Xarray • Pandas • NetCDF<br/>
-      GRIB • Matplotlib • QGIS
+      GRIB • Zarr • QGIS
     </td>
   </tr>
 </table>
